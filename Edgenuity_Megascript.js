@@ -803,7 +803,3 @@ setInterval(() => {
         }
     }
 }, 1000);
-
-
-
-/*hammerhead|script|end*/
